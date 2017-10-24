@@ -1,4 +1,4 @@
-# ring.com2ciscospark
+# ring.comrecord2ciscospark
 A small script to send the last recording from RING.COM's doorbell video recording service to Cisco Spark
 
 1) Get the following https://github.com/tchellomello/python-ring-doorbell this is foundation integrating with your RING device.
